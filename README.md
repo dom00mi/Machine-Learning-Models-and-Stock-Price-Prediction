@@ -1,0 +1,2 @@
+# Machine-Learning-Models-and-Stock-Price-Prediction
+In this mini-project, I will be attempting to produce a model to predict short-term stock returns, and anticipate positive moves (up trend) using notable Machine Learning tools such as Support Vector Machine and Logistic Classifiers models within Supervised Learning and propose several solutions that will aim at predicting short term asset returns.
